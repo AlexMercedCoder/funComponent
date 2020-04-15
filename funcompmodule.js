@@ -32,7 +32,7 @@ export const funComponent = (config) => {
         }
 
         setState(newState) {
-            this.state = newState;
+            this.state = { ...this.state, ...newState };
             this.rend();
         }
 

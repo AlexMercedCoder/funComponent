@@ -1,6 +1,6 @@
 {
     "name": "funcomponents",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A Library that enables you to create components using functions and create hooks to work with those components.",
     "main": "funcompnpm.js",
     "scripts": {

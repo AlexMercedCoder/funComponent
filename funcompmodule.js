@@ -29,6 +29,11 @@ export const funComponent = (config) => {
         rend() {
             this.props = captureProps(this);
             this.shadowRoot.innerHTML = config.render(this.state, this.props);
+            this.postRender(this, this.state, this.props);
+        }
+
+        postRender(element, state, props) {
+            config.postRender ? config.postRender(state, props) : '';
         }
 
         setState(newState) {

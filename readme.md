@@ -61,3 +61,5 @@ Properties that can be passed into the config object when creating components wi
 -   construct: a function that takes the instance as an argument that is called in the constructor, can be used to add actions to the constructor.
 
 -   hookGen: a function that takes the instance as an argument that is meant to define addtional function/methods and return them when the hookGen method is called on the instance.
+
+-   postRender: (element, state, props) => function that runs after each render, use for adding event listeners

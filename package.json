@@ -1,20 +1,20 @@
 {
-    "name": "funcomponents",
-    "version": "1.0.2",
-    "description": "A Library that enables you to create components using functions and create hooks to work with those components.",
-    "main": "funcompnpm.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/AlexMercedCoder/funComponent.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/AlexMercedCoder/funComponent/issues"
-    },
-    "homepage": "https://github.com/AlexMercedCoder/funComponent#readme"
+  "name": "funcomponents",
+  "version": "1.0.3",
+  "description": "A Library that enables you to create components using functions and create hooks to work with those components.",
+  "main": "funcompnpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMercedCoder/funComponent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMercedCoder/funComponent/issues"
+  },
+  "homepage": "https://github.com/AlexMercedCoder/funComponent#readme"
 }

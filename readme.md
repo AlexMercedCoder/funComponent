@@ -1,12 +1,13 @@
 # funComponent (Functional Web Components)
+created by Alex Merced of AlexMercedCoder.com
 
 A Library that enables you to create components using functions and create hooks to work with those components.
 
-CDN Link: http://www.alexmercedcoder.com/funcomp.js (11kb)
+CDN Link: https://res.cloudinary.com/dithdroai/raw/upload/v1609693455/libraries/funcomp_bleozo.js (11kb)
 
-CDN Link (ES 6 MODULE VERSION): http://www.alexmercedcoder.com/funcompmodule.js (13 kb)
+CDN Link (ES 6 MODULE VERSION): https://res.cloudinary.com/dithdroai/raw/upload/v1609693455/libraries/funcompmodule_zguist.js (13 kb)
 
-CDN Link (Node MODULE.Exports VERSION): http://www.alexmercedcoder.com/funcompnpm.js (14 kb)
+**NPM** ```npx create-funcomponent-app projectName``` or for custom build ```npm install funcomponent```
 
 ## Creating a Component
 
